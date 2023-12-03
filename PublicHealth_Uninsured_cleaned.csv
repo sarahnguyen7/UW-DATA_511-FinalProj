@@ -1,0 +1,667 @@
+MSA,Year,Uninsured Population,Total Population,Percentage of Uninsured Population
+"Atlanta-Sandy Springs-Marietta, GA ",2010,1041340,5244660,0.198552432
+"Augusta-Richmond County, GA-SC ",2010,89738,541705,0.16565843
+"Austin-Round Rock-San Marcos, TX ",2010,330058,1710245,0.192988724
+"Baltimore-Towson, MD ",2010,268069,2665963,0.100552408
+"Birmingham-Hoover, AL ",2010,151717,1117020,0.135822993
+"Boston-Cambridge-Quincy, MA-NH ",2010,224398,4508800,0.049768896
+"Buffalo-Niagara Falls, NY ",2010,85735,1120190,0.076536123
+"Charlotte-Gastonia-Rock Hill, NC-SC ",2010,296272,1751560,0.169147503
+"Charlottesville, VA ",2010,,,0.159427592
+"Chicago-Joliet-Naperville, IL-IN-WI ",2010,1406405,9394341,0.14970768
+"Cincinnati-Middletown, OH-KY-IN ",2010,245056,2104138,0.116463844
+"Cleveland, TN ",2010,,,0.115891108
+"Cleveland-Elyria-Mentor, OH ",2010,236086,2047254,0.115318373
+"Columbus, GA-AL ",2010,,,0.116994058
+"Columbus, IN ",2010,,,0.118669743
+"Columbus, OH ",2010,218681,1817111,0.120345427
+"Dallas-Fort Worth-Arlington, TX ",2010,1431927,6339312,0.225880506
+"Denver-Aurora-Broomfield, CO ",2010,400031,2536850,0.157688078
+"Detroit-Warren-Livonia, MI ",2010,559035,4263706,0.13111481
+"Fresno, CA ",2010,185812,922483,0.201425934
+"Houston-Sugar Land-Baytown, TX ",2010,1500355,5924557,0.253243407
+"Indianapolis-Carmel, IN ",2010,260247,1735161,0.149984353
+"Jacksonville, FL ",2010,211021,1323923,0.15939069
+"Jacksonville, NC ",2010,,,0.146339146
+"Kansas City, MO-KS ",2010,268337,2013218,0.133287602
+"Las Vegas-Paradise, NV ",2010,446473,1929484,0.231395026
+"Los Angeles-Long Beach-Santa Ana, CA ",2010,2829788,12755004,0.221857084
+"Louisville/Jefferson County, KY-IN ",2010,163595,1267434,0.129075755
+"Memphis, TN-MS-AR ",2010,207802,1298982,0.159972963
+"Miami-Fort Lauderdale-Pompano Beach, FL ",2010,1475487,5517868,0.267401649
+"Milwaukee-Waukesha-West Allis, WI ",2010,156395,1545012,0.101225751
+"Minneapolis-St. Paul-Bloomington, MN-WI ",2010,297382,3256442,0.091321141
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",2010,227085,1572199,0.144437822
+"New York-Northern New Jersey-Long Island, NY-NJ-PA ",2010,2548241,18750885,0.135899772
+"Oklahoma City, OK ",2010,216725,1237705,0.175102306
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",2010,596326,5886309,0.101307288
+"Phoenix-Mesa-Glendale, AZ ",2010,709156,4150399,0.170864536
+"Pittsburgh, PA ",2010,192101,2325874,0.082593038
+"Portland-South Portland-Biddeford, ME ",2010,,,0.118193028
+"Portland-Vancouver-Hillsboro, OR-WA ",2010,340646,2214964,0.153793019
+"Providence-New Bedford-Fall River, RI-MA ",2010,150639,1578428,0.095436092
+"Raleigh-Cary, NC ",2010,167007,1128058,0.148048239
+"Richmond, VA ",2010,164202,1232732,0.133201702
+"Riverside-San Bernardino-Ontario, CA ",2010,893093,4188254,0.213237545
+"Sacramento--Arden-Arcade--Roseville, CA ",2010,269228,2127810,0.126528214
+"St. Louis, MO-IL ",2010,304550,2776667,0.10968186
+"Salt Lake City, UT ",2010,186646,1117922,0.166957981
+"San Antonio-New Braunfels, TX ",2010,419833,2107903,0.19917093
+"San Diego-Carlsbad-San Marcos, CA ",2010,527303,3002860,0.175600261
+"San Francisco-Oakland-Fremont, CA ",2010,531201,4309379,0.123266253
+"San Jose-Sunnyvale-Santa Clara, CA ",2010,225118,1835444,0.122650432
+"Seattle-Tacoma-Bellevue, WA ",2010,446072,3397885,0.131279311
+"Tampa-St. Petersburg-Clearwater, FL ",2010,514014,2760376,0.186211589
+"Virginia Beach-Norfolk-Newport News, VA-NC ",2010,189764,1595630,0.11892732
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",2010,679873,5520359,0.123157389
+"Atlanta-Sandy Springs-Marietta, GA ",2011,1045167,5318639,0.196510235
+"Augusta-Richmond County, GA-SC ",2011,80993,544132,0.148848074
+"Austin-Round Rock-San Marcos, TX ",2011,332187,1765887,0.188113396
+"Baltimore-Towson, MD ",2011,242158,2686186,0.090149379
+"Birmingham-Hoover, AL ",2011,146061,1118192,0.130622469
+"Boston-Cambridge-Quincy, MA-NH ",2011,214444,4540931,0.047224677
+"Buffalo-Niagara Falls, NY ",2011,84190,1120457,0.075138983
+"Charlotte-Gastonia-Rock Hill, NC-SC ",2011,296592,1782182,0.166420713
+"Charlottesville, VA ",2011,,,0.154867514
+"Chicago-Joliet-Naperville, IL-IN-WI ",2011,1349979,9419708,0.143314315
+"Cincinnati-Middletown, OH-KY-IN ",2011,236840,2114493,0.112007938
+"Cleveland, TN ",2011,,,0.112555004
+"Cleveland-Elyria-Mentor, OH ",2011,230886,2041395,0.11310207
+"Columbus, GA-AL ",2011,,,0.114554892
+"Columbus, IN ",2011,,,0.116007714
+"Columbus, OH ",2011,215259,1832607,0.117460536
+"Dallas-Fort Worth-Arlington, TX ",2011,1440932,6474674,0.222548965
+"Denver-Aurora-Broomfield, CO ",2011,395476,2577429,0.153438174
+"Detroit-Warren-Livonia, MI ",2011,536668,4256941,0.126068931
+"Fresno, CA ",2011,192553,931345,0.206747231
+"Houston-Sugar Land-Baytown, TX ",2011,1452128,6037260,0.240527657
+"Indianapolis-Carmel, IN ",2011,229466,1754322,0.130800389
+"Jacksonville, FL ",2011,212298,1333949,0.159150012
+"Jacksonville, NC ",2011,,,0.147112204
+"Kansas City, MO-KS ",2011,273408,2024129,0.135074395
+"Las Vegas-Paradise, NV ",2011,433706,1945817,0.222891464
+"Los Angeles-Long Beach-Santa Ana, CA ",2011,2730041,12857618,0.212328675
+"Louisville/Jefferson County, KY-IN ",2011,167085,1278051,0.13073422
+"Memphis, TN-MS-AR ",2011,211256,1308062,0.161503048
+"Miami-Fort Lauderdale-Pompano Beach, FL ",2011,1443175,5620043,0.25679074
+"Milwaukee-Waukesha-West Allis, WI ",2011,149818,1548112,0.096774652
+"Minneapolis-St. Paul-Bloomington, MN-WI ",2011,292202,3290949,0.088789586
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",2011,229705,1602115,0.1433761
+"New York-Northern New Jersey-Long Island, NY-NJ-PA ",2011,2497195,18847225,0.132496694
+"Oklahoma City, OK ",2011,226154,1258832,0.179653838
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",2011,594873,5914484,0.100579019
+"Phoenix-Mesa-Glendale, AZ ",2011,741273,4209141,0.17611028
+"Pittsburgh, PA ",2011,195014,2331858,0.083630307
+"Portland-South Portland-Biddeford, ME ",2011,,,0.113957749
+"Portland-Vancouver-Hillsboro, OR-WA ",2011,324241,2247223,0.144285191
+"Providence-New Bedford-Fall River, RI-MA ",2011,136254,1576319,0.086438088
+"Raleigh-Cary, NC ",2011,165707,1152684,0.143757526
+"Richmond, VA ",2011,152026,1244627,0.122145832
+"Riverside-San Bernardino-Ontario, CA ",2011,866177,4242133,0.20418431
+"Sacramento--Arden-Arcade--Roseville, CA ",2011,281853,2153236,0.130897403
+"St. Louis, MO-IL ",2011,309076,2779468,0.111199697
+"Salt Lake City, UT ",2011,180952,1136404,0.159232104
+"San Antonio-New Braunfels, TX ",2011,427832,2149071,0.199077648
+"San Diego-Carlsbad-San Marcos, CA ",2011,528808,3040979,0.173893999
+"San Francisco-Oakland-Fremont, CA ",2011,518210,4357723,0.118917609
+"San Jose-Sunnyvale-Santa Clara, CA ",2011,216983,1855577,0.116935595
+"Seattle-Tacoma-Bellevue, WA ",2011,446064,3451113,0.129252215
+"Tampa-St. Petersburg-Clearwater, FL ",2011,506747,2793949,0.181373032
+"Virginia Beach-Norfolk-Newport News, VA-NC ",2011,194199,1594527,0.121790976
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",2011,651948,5631112,0.115776067
+"Atlanta-Sandy Springs-Marietta, GA ",2012,992026,5395018,0.183878163
+"Augusta-Richmond County, GA-SC ",2012,89437,550508,0.162462671
+"Austin-Round Rock-San Marcos, TX ",2012,326356,1817120,0.179600687
+"Baltimore-Towson, MD ",2012,235171,2705863,0.086911643
+"Birmingham-Hoover, AL ",2012,136880,1122390,0.121954044
+"Boston-Cambridge-Quincy, MA-NH ",2012,195294,4589436,0.042552941
+"Buffalo-Niagara Falls, NY ",2012,70027,1120067,0.062520367
+"Charlotte-Gastonia-Rock Hill, NC-SC ",2012,294122,1817050,0.161867863
+"Charlottesville, VA ",2012,,,0.1506191
+"Chicago-Joliet-Naperville, IL-IN-WI ",2012,1315924,9441923,0.139370338
+"Cincinnati-Middletown, OH-KY-IN ",2012,224128,2124889,0.10547751
+"Cleveland, TN ",2012,,,0.105793256
+"Cleveland-Elyria-Mentor, OH ",2012,216027,2035897,0.106109003
+"Columbus, GA-AL ",2012,,,0.110052861
+"Columbus, IN ",2012,,,0.11399672
+"Columbus, OH ",2012,218682,1854171,0.117940578
+"Dallas-Fort Worth-Arlington, TX ",2012,1465748,6593718,0.222294614
+"Denver-Aurora-Broomfield, CO ",2012,388577,2621406,0.148232285
+"Detroit-Warren-Livonia, MI ",2012,515882,4264105,0.12098248
+"Fresno, CA ",2012,193924,936354,0.207105432
+"Houston-Sugar Land-Baytown, TX ",2012,1439229,6156197,0.233785404
+"Indianapolis-Carmel, IN ",2012,240329,1776871,0.135254051
+"Jacksonville, FL ",2012,214889,1353764,0.158734462
+"Jacksonville, NC ",2012,,,0.142734729
+"Kansas City, MO-KS ",2012,258310,2038190,0.126734995
+"Las Vegas-Paradise, NV ",2012,452228,1977785,0.228653772
+"Los Angeles-Long Beach-Santa Ana, CA ",2012,2708819,12964593,0.208939764
+"Louisville/Jefferson County, KY-IN ",2012,162207,1283453,0.12638328
+"Memphis, TN-MS-AR ",2012,199113,1316872,0.151201484
+"Miami-Fort Lauderdale-Pompano Beach, FL ",2012,1417890,5712768,0.248196671
+"Milwaukee-Waukesha-West Allis, WI ",2012,143659,1554107,0.092438294
+"Minneapolis-St. Paul-Bloomington, MN-WI ",2012,260214,3325395,0.078250554
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",2012,213210,1627138,0.131033754
+"New York-Northern New Jersey-Long Island, NY-NJ-PA ",2012,2432357,18993397,0.128063295
+"Oklahoma City, OK ",2012,217705,1276056,0.170607716
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",2012,583253,5940853,0.098176642
+"Phoenix-Mesa-Glendale, AZ ",2012,745106,4285055,0.173884816
+"Pittsburgh, PA ",2012,184686,2333354,0.079150442
+"Portland-South Portland-Biddeford, ME ",2012,,,0.107265162
+"Portland-Vancouver-Hillsboro, OR-WA ",2012,307921,2274496,0.135379882
+"Providence-New Bedford-Fall River, RI-MA ",2012,138344,1578940,0.087618276
+"Raleigh-Cary, NC ",2012,168913,1176521,0.143569898
+"Richmond, VA ",2012,161119,1252263,0.12866227
+"Riverside-San Bernardino-Ontario, CA ",2012,877969,4286924,0.204801625
+"Sacramento--Arden-Arcade--Roseville, CA ",2012,313992,2176291,0.1442785
+"St. Louis, MO-IL ",2012,310086,2784713,0.111352947
+"Salt Lake City, UT ",2012,182812,1153583,0.158473209
+"San Antonio-New Braunfels, TX ",2012,416194,2197341,0.189408016
+"San Diego-Carlsbad-San Marcos, CA ",2012,521386,3073012,0.169666113
+"San Francisco-Oakland-Fremont, CA ",2012,513380,4423295,0.116062799
+"San Jose-Sunnyvale-Santa Clara, CA ",2012,224883,1885875,0.119245973
+"Seattle-Tacoma-Bellevue, WA ",2012,456910,3507846,0.130253723
+"Tampa-St. Petersburg-Clearwater, FL ",2012,496787,2814061,0.176537396
+"Virginia Beach-Norfolk-Newport News, VA-NC ",2012,185351,1605304,0.11546162
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",2012,663397,5731892,0.115737875
+"Anniston-Oxford-Jacksonville, AL ",2013,,,0.151505136
+"Atlanta-Sandy Springs-Roswell, GA ",2013,1026237,5479916,0.187272396
+"Augusta-Richmond County, GA-SC ",2013,81246,564452,0.143937837
+"Austin-Round Rock, TX ",2013,324191,1867279,0.173616797
+"Baltimore-Columbia-Towson, MD ",2013,235897,2723967,0.086600535
+"Birmingham-Hoover, AL ",2013,133780,1125879,0.118822715
+"Boston-Cambridge-Newton, MA-NH ",2013,195978,4632775,0.042302508
+"Buffalo-Cheektowaga-Niagara Falls, NY ",2013,72291,1120232,0.064532168
+"Charlotte-Concord-Gastonia, NC-SC ",2013,367873,2317961,0.158705431
+"Charlottesville, VA ",2013,,,0.149322484
+"Chicago-Naperville-Elgin, IL-IN-WI ",2013,1322582,9451096,0.139939537
+"Cincinnati, OH-KY-IN ",2013,222872,2109109,0.105671163
+"Cleveland, TN ",2013,,,0.10401008
+"Cleveland-Elyria, OH ",2013,208820,2040274,0.102348998
+"Columbus, GA-AL ",2013,,,0.106888755
+"Columbus, IN ",2013,,,0.111428512
+"Columbus, OH ",2013,225013,1940298,0.115968269
+"Dallas-Fort Worth-Arlington, TX ",2013,1451114,6756064,0.214786894
+"Denver-Aurora-Lakewood, CO ",2013,377342,2673551,0.141138882
+"Detroit-Warren-Dearborn, MI ",2013,483065,4267736,0.113189991
+"Fresno, CA ",2013,172565,943800,0.182840644
+"Houston-The Woodlands-Sugar Land, TX ",2013,1429541,6262526,0.228269072
+"Indianapolis-Carmel-Anderson, IN ",2013,262850,1926158,0.136463364
+"Jacksonville, FL ",2013,213388,1369805,0.155779837
+"Jacksonville, NC ",2013,,,0.14373198
+"Kansas City, MO-KS ",2013,266949,2027192,0.131684123
+"Las Vegas-Henderson-Paradise, NV ",2013,432618,2006374,0.215621813
+"Los Angeles-Long Beach-Anaheim, CA ",2013,2637795,13042856,0.202240598
+"Louisville/Jefferson County, KY-IN ",2013,154672,1245711,0.12416363
+"Memphis, TN-MS-AR ",2013,208709,1326796,0.157303007
+"Miami-Fort Lauderdale-West Palm Beach, FL ",2013,1433263,5776453,0.248121641
+"Milwaukee-Waukesha-West Allis, WI ",2013,149083,1556250,0.095796305
+"Minneapolis-St. Paul-Bloomington, MN-WI ",2013,276566,3430733,0.080614259
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",2013,234084,1738899,0.134616214
+"New York-Newark-Jersey City, NY-NJ-PA ",2013,2477579,19763358,0.125362249
+"Oklahoma City, OK ",2013,219478,1299006,0.168958419
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",2013,593427,5955628,0.099641381
+"Phoenix-Mesa-Scottsdale, AZ ",2013,755958,4350326,0.173770425
+"Pittsburgh, PA ",2013,176122,2334302,0.075449535
+"Portland-South Portland, ME ",2013,,,0.105518025
+"Portland-Vancouver-Hillsboro, OR-WA ",2013,311902,2300391,0.135586516
+"Providence-Warwick, RI-MA ",2013,142820,1581388,0.090313067
+"Raleigh, NC ",2013,162594,1202253,0.135241085
+"Richmond, VA ",2013,150904,1221118,0.123578557
+"Riverside-San Bernardino-Ontario, CA ",2013,836689,4316549,0.193832851
+"Sacramento--Roseville--Arden-Arcade, CA ",2013,308500,2195250,0.140530691
+"St. Louis, MO-IL ",2013,287972,2764821,0.104155748
+"Salt Lake City, UT ",2013,177522,1132569,0.156742768
+"San Antonio-New Braunfels, TX ",2013,433947,2240982,0.193641448
+"San Diego-Carlsbad, CA ",2013,506129,3112190,0.162627924
+"San Francisco-Oakland-Hayward, CA ",2013,493387,4483866,0.110036072
+"San Jose-Sunnyvale-Santa Clara, CA ",2013,211292,1911013,0.110565444
+"Seattle-Tacoma-Bellevue, WA ",2013,441871,3563860,0.123986632
+"Tampa-St. Petersburg-Clearwater, FL ",2013,484199,2838363,0.170590936
+"Virginia Beach-Norfolk-Newport News, VA-NC ",2013,201642,1619144,0.124536175
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",2013,668753,5879484,0.113743485
+"Anniston-Oxford-Jacksonville, AL ",2014,,,0.133708031
+"Atlanta-Sandy Springs-Roswell, GA ",2014,855498,5567018,0.153672577
+"Augusta-Richmond County, GA-SC ",2014,73550,564384,0.130319074
+"Austin-Round Rock, TX ",2014,298326,1926610,0.154845039
+"Baltimore-Columbia-Towson, MD ",2014,172927,2741585,0.063075557
+"Birmingham-Hoover, AL ",2014,125877,1129239,0.111470645
+"Boston-Cambridge-Newton, MA-NH ",2014,177282,4683318,0.037853932
+"Buffalo-Cheektowaga-Niagara Falls, NY ",2014,,,0.08357938
+"Charlotte-Concord-Gastonia, NC-SC ",2014,305553,2363044,0.129304829
+"Charlottesville, VA ",2014,,,0.118954856
+"Chicago-Naperville-Elgin, IL-IN-WI ",2014,1028070,9466149,0.108604883
+"Cincinnati, OH-KY-IN ",2014,171668,2124455,0.080805665
+"Cleveland, TN ",2014,,,0.0782324
+"Cleveland-Elyria, OH ",2014,154249,2038736,0.075659134
+"Columbus, GA-AL ",2014,,,0.078611161
+"Columbus, IN ",2014,,,0.081563187
+"Columbus, OH ",2014,166348,1968261,0.084515214
+"Dallas-Fort Worth-Arlington, TX ",2014,1252905,6899869,0.181583882
+"Denver-Aurora-Lakewood, CO ",2014,277990,2732835,0.101722204
+"Detroit-Warren-Dearborn, MI ",2014,381339,4268495,0.089338045
+"Fresno, CA ",2014,134687,954248,0.14114465
+"Houston-The Woodlands-Sugar Land, TX ",2014,1259941,6439913,0.195645655
+"Indianapolis-Carmel-Anderson, IN ",2014,223169,1945637,0.11470228
+"Jacksonville, FL ",2014,175982,1392192,0.126406415
+"Jacksonville, NC ",2014,,,0.115979301
+"Kansas City, MO-KS ",2014,215907,2045500,0.105552188
+"Las Vegas-Henderson-Paradise, NV ",2014,327820,2046770,0.160164552
+"Los Angeles-Long Beach-Anaheim, CA ",2014,1937002,13176100,0.147008751
+"Louisville/Jefferson County, KY-IN ",2014,101027,1246971,0.081017923
+"Memphis, TN-MS-AR ",2014,177363,1326997,0.133657423
+"Miami-Fort Lauderdale-West Palm Beach, FL ",2014,1143271,5879047,0.194465361
+"Milwaukee-Waukesha-West Allis, WI ",2014,121414,1559127,0.077873066
+"Minneapolis-St. Paul-Bloomington, MN-WI ",2014,199485,3465486,0.057563355
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",2014,212056,1774885,0.11947591
+"New York-Newark-Jersey City, NY-NJ-PA ",2014,2081309,19909829,0.104536759
+"Oklahoma City, OK ",2014,184092,1313583,0.140144932
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",2014,504984,5972800,0.084547281
+"Phoenix-Mesa-Scottsdale, AZ ",2014,589231,4432549,0.132932766
+"Pittsburgh, PA ",2014,146387,2328736,0.06286114
+"Portland-South Portland, ME ",2014,,,0.077568567
+"Portland-Vancouver-Hillsboro, OR-WA ",2014,215146,2331549,0.092275993
+"Providence-Warwick, RI-MA ",2014,96979,1587470,0.061090288
+"Raleigh, NC ",2014,145208,1231705,0.117891865
+"Richmond, VA ",2014,127229,1232657,0.10321525
+"Riverside-San Bernardino-Ontario, CA ",2014,640154,4371661,0.146432672
+"Sacramento--Roseville--Arden-Arcade, CA ",2014,209526,2219721,0.094392944
+"St. Louis, MO-IL ",2014,248900,2771716,0.089799965
+"Salt Lake City, UT ",2014,155592,1144703,0.135923467
+"San Antonio-New Braunfels, TX ",2014,360619,2289155,0.157533675
+"San Diego-Carlsbad, CA ",2014,388569,3164291,0.122798124
+"San Francisco-Oakland-Hayward, CA ",2014,356250,4563324,0.078068092
+"San Jose-Sunnyvale-Santa Clara, CA ",2014,138059,1943922,0.071020854
+"Seattle-Tacoma-Bellevue, WA ",2014,302272,3625158,0.083381745
+"Tampa-St. Petersburg-Clearwater, FL ",2014,423536,2883891,0.146862693
+"Virginia Beach-Norfolk-Newport News, VA-NC ",2014,180416,1625281,0.111006035
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",2014,572894,5961557,0.09609805
+"Anniston-Oxford-Jacksonville, AL ",2015,,,0.115081358
+"Atlanta-Sandy Springs-Roswell, GA ",2015,759403,5664453,0.134064666
+"Augusta-Richmond County, GA-SC ",2015,66349,571031,0.11619159
+"Austin-Round Rock, TX ",2015,256428,1983885,0.129255476
+"Baltimore-Columbia-Towson, MD ",2015,146539,2747783,0.053329903
+"Birmingham-Hoover, AL ",2015,109319,1131295,0.096631736
+"Boston-Cambridge-Newton, MA-NH ",2015,141958,4725559,0.030040467
+"Buffalo-Cheektowaga-Niagara Falls, NY ",2015,,,0.067338496
+"Charlotte-Concord-Gastonia, NC-SC ",2015,252020,2408528,0.104636525
+"Charlottesville, VA ",2015,,,0.093169298
+"Chicago-Naperville-Elgin, IL-IN-WI ",2015,773161,9463175,0.081702071
+"Cincinnati, OH-KY-IN ",2015,123499,2133287,0.057891414
+"Cleveland, TN ",2015,,,0.059361633
+"Cleveland-Elyria, OH ",2015,123809,2035266,0.060831852
+"Columbus, GA-AL ",2015,,,0.064231396
+"Columbus, IN ",2015,,,0.06763094
+"Columbus, OH ",2015,141673,1994538,0.071030484
+"Dallas-Fort Worth-Arlington, TX ",2015,1150488,7050764,0.163172104
+"Denver-Aurora-Lakewood, CO ",2015,224960,2790206,0.080624871
+"Detroit-Warren-Dearborn, MI ",2015,268902,4273209,0.062927416
+"Fresno, CA ",2015,93044,963755,0.096543209
+"Houston-The Woodlands-Sugar Land, TX ",2015,1142813,6602731,0.173081866
+"Indianapolis-Carmel-Anderson, IN ",2015,182847,1960549,0.093263163
+"Jacksonville, FL ",2015,153310,1422372,0.107784743
+"Jacksonville, NC ",2015,,,0.098305508
+"Kansas City, MO-KS ",2015,183313,2063725,0.088826273
+"Las Vegas-Henderson-Paradise, NV ",2015,277837,2091396,0.132847629
+"Los Angeles-Long Beach-Anaheim, CA ",2015,1424010,13255969,0.107424059
+"Louisville/Jefferson County, KY-IN ",2015,74228,1262918,0.058774996
+"Memphis, TN-MS-AR ",2015,158624,1326050,0.119621432
+"Miami-Fort Lauderdale-West Palm Beach, FL ",2015,946358,5962668,0.158713851
+"Milwaukee-Waukesha-West Allis, WI ",2015,93581,1562371,0.059896785
+"Minneapolis-St. Paul-Bloomington, MN-WI ",2015,159196,3496109,0.045535194
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",2015,176480,1813547,0.097312063
+"New York-Newark-Jersey City, NY-NJ-PA ",2015,1695411,20003795,0.084754468
+"Oklahoma City, OK ",2015,170443,1336781,0.12750256
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",2015,377767,5991446,0.063051056
+"Phoenix-Mesa-Scottsdale, AZ ",2015,491191,4518609,0.108704028
+"Pittsburgh, PA ",2015,104430,2326306,0.044890913
+"Portland-South Portland, ME ",2015,,,0.054568452
+"Portland-Vancouver-Hillsboro, OR-WA ",2015,152585,2375012,0.064245991
+"Providence-Warwick, RI-MA ",2015,76651,1591664,0.048157777
+"Raleigh, NC ",2015,114574,1263388,0.090687896
+"Richmond, VA ",2015,106607,1246535,0.085522669
+"Riverside-San Bernardino-Ontario, CA ",2015,416554,4410843,0.094438637
+"Sacramento--Roseville--Arden-Arcade, CA ",2015,133256,2255680,0.059075755
+"St. Louis, MO-IL ",2015,194259,2778029,0.069926916
+"Salt Lake City, UT ",2015,126747,1161960,0.109080347
+"San Antonio-New Braunfels, TX ",2015,338905,2344270,0.144567392
+"San Diego-Carlsbad, CA ",2015,282291,3208161,0.087991532
+"San Francisco-Oakland-Hayward, CA ",2015,224584,4630245,0.048503697
+"San Jose-Sunnyvale-Santa Clara, CA ",2015,99983,1967346,0.050821259
+"Seattle-Tacoma-Bellevue, WA ",2015,220064,3691314,0.059616711
+"Tampa-St. Petersburg-Clearwater, FL ",2015,347012,2944079,0.117867761
+"Virginia Beach-Norfolk-Newport News, VA-NC ",2015,144625,1624116,0.089048442
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",2015,485481,6022494,0.080611288
+"Anniston-Oxford-Jacksonville, AL ",2015,,,0.107337977
+"Atlanta-Sandy Springs-Roswell, GA ",2015,759403,5664453,0.134064666
+"Augusta-Richmond County, GA-SC ",2015,66349,571031,0.11619159
+"Austin-Round Rock, TX ",2015,256428,1983885,0.129255476
+"Baltimore-Columbia-Towson, MD ",2015,146539,2747783,0.053329903
+"Birmingham-Hoover, AL ",2015,109319,1131295,0.096631736
+"Boston-Cambridge-Newton, MA-NH ",2015,141958,4725559,0.030040467
+"Buffalo-Cheektowaga-Niagara Falls, NY ",2015,,,0.067338496
+"Charlotte-Concord-Gastonia, NC-SC ",2015,252020,2408528,0.104636525
+"Charlottesville, VA ",2015,,,0.093169298
+"Chicago-Naperville-Elgin, IL-IN-WI ",2015,773161,9463175,0.081702071
+"Cincinnati, OH-KY-IN ",2015,123499,2133287,0.057891414
+"Cleveland, TN ",2015,,,0.059361633
+"Cleveland-Elyria, OH ",2015,123809,2035266,0.060831852
+"Columbus, GA-AL ",2015,,,0.064231396
+"Columbus, IN ",2015,,,0.06763094
+"Columbus, OH ",2015,141673,1994538,0.071030484
+"Dallas-Fort Worth-Arlington, TX ",2015,1150488,7050764,0.163172104
+"Denver-Aurora-Lakewood, CO ",2015,224960,2790206,0.080624871
+"Detroit-Warren-Dearborn, MI ",2015,268902,4273209,0.062927416
+"Fresno, CA ",2015,93044,963755,0.096543209
+"Houston-The Woodlands-Sugar Land, TX ",2015,1142813,6602731,0.173081866
+"Indianapolis-Carmel-Anderson, IN ",2015,182847,1960549,0.093263163
+"Jacksonville, FL ",2015,153310,1422372,0.107784743
+"Jacksonville, NC ",2015,,,0.098305508
+"Kansas City, MO-KS ",2015,183313,2063725,0.088826273
+"Las Vegas-Henderson-Paradise, NV ",2015,277837,2091396,0.132847629
+"Los Angeles-Long Beach-Anaheim, CA ",2015,1424010,13255969,0.107424059
+"Louisville/Jefferson County, KY-IN ",2015,74228,1262918,0.058774996
+"Memphis, TN-MS-AR ",2015,158624,1326050,0.119621432
+"Miami-Fort Lauderdale-West Palm Beach, FL ",2015,946358,5962668,0.158713851
+"Milwaukee-Waukesha-West Allis, WI ",2015,93581,1562371,0.059896785
+"Minneapolis-St. Paul-Bloomington, MN-WI ",2015,159196,3496109,0.045535194
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",2015,176480,1813547,0.097312063
+"New York-Newark-Jersey City, NY-NJ-PA ",2015,1695411,20003795,0.084754468
+"Oklahoma City, OK ",2015,170443,1336781,0.12750256
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",2015,377767,5991446,0.063051056
+"Phoenix-Mesa-Scottsdale, AZ ",2015,491191,4518609,0.108704028
+"Pittsburgh, PA ",2015,104430,2326306,0.044890913
+"Portland-South Portland, ME ",2015,,,0.054568452
+"Portland-Vancouver-Hillsboro, OR-WA ",2015,152585,2375012,0.064245991
+"Providence-Warwick, RI-MA ",2015,76651,1591664,0.048157777
+"Raleigh, NC ",2015,114574,1263388,0.090687896
+"Richmond, VA ",2015,106607,1246535,0.085522669
+"Riverside-San Bernardino-Ontario, CA ",2015,416554,4410843,0.094438637
+"Sacramento--Roseville--Arden-Arcade, CA ",2015,133256,2255680,0.059075755
+"St. Louis, MO-IL ",2015,194259,2778029,0.069926916
+"Salt Lake City, UT ",2015,126747,1161960,0.109080347
+"San Antonio-New Braunfels, TX ",2015,338905,2344270,0.144567392
+"San Diego-Carlsbad, CA ",2015,282291,3208161,0.087991532
+"San Francisco-Oakland-Hayward, CA ",2015,224584,4630245,0.048503697
+"San Jose-Sunnyvale-Santa Clara, CA ",2015,99983,1967346,0.050821259
+"Seattle-Tacoma-Bellevue, WA ",2015,220064,3691314,0.059616711
+"Tampa-St. Petersburg-Clearwater, FL ",2015,347012,2944079,0.117867761
+"Virginia Beach-Norfolk-Newport News, VA-NC ",2015,144625,1624116,0.089048442
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",2015,485481,6022494,0.080611288
+"Anniston-Oxford-Jacksonville, AL ",2017,,,0.105261749
+"Atlanta-Sandy Springs-Roswell, GA ",2017,758233,5836503,0.129912209
+"Augusta-Richmond County, GA-SC ",2017,,,0.123545813
+"Austin-Round Rock, TX ",2017,245991,2099268,0.117179417
+"Baltimore-Columbia-Towson, MD ",2017,135979,2763287,0.049209148
+"Birmingham-Hoover, AL ",2017,97341,1135202,0.085747735
+"Boston-Cambridge-Newton, MA-NH ",2017,144080,4787907,0.030092481
+"Buffalo-Cheektowaga-Niagara Falls, NY ",2017,,,0.065815382
+"Charlotte-Concord-Gastonia, NC-SC ",2017,254657,2507990,0.101538284
+"Charlottesville, VA ",2017,,,0.088745419
+"Chicago-Naperville-Elgin, IL-IN-WI ",2017,717302,9444080,0.075952554
+"Cincinnati, OH-KY-IN ",2017,106813,2154978,0.049565703
+"Cleveland, TN ",2017,,,0.050071458
+"Cleveland-Elyria, OH ",2017,102839,2033307,0.050577212
+"Columbus, GA-AL ",2017,,,0.055655881
+"Columbus, IN ",2017,,,0.06073455
+"Columbus, OH ",2017,134971,2050819,0.065813219
+"Dallas-Fort Worth-Arlington, TX ",2017,1209929,7348537,0.164648963
+"Denver-Aurora-Lakewood, CO ",2017,207414,2864339,0.072412518
+"Detroit-Warren-Dearborn, MI ",2017,214340,4283001,0.05004435
+"Fresno, CA ",2017,74842,978243,0.076506553
+"Houston-The Woodlands-Sugar Land, TX ",2017,1243056,6834365,0.181883174
+"Indianapolis-Carmel-Anderson, IN ",2017,160628,2000487,0.080294448
+"Jacksonville, FL ",2017,161646,1477578,0.109399301
+"Jacksonville, NC ",2017,,,0.099967792
+"Kansas City, MO-KS ",2017,190306,2101986,0.090536283
+"Las Vegas-Henderson-Paradise, NV ",2017,256898,2179495,0.117870424
+"Los Angeles-Long Beach-Anaheim, CA ",2017,1141590,13271857,0.086015845
+"Louisville/Jefferson County, KY-IN ",2017,68188,1275416,0.053463341
+"Memphis, TN-MS-AR ",2017,130372,1328971,0.098099959
+"Miami-Fort Lauderdale-West Palm Beach, FL ",2017,949794,6109474,0.155462483
+"Milwaukee-Waukesha-West Allis, WI ",2017,86401,1563406,0.055264595
+"Minneapolis-St. Paul-Bloomington, MN-WI ",2017,150879,3572153,0.042237553
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",2017,179489,1886262,0.095155922
+"New York-Newark-Jersey City, NY-NJ-PA ",2017,1404815,20139376,0.069754644
+"Oklahoma City, OK ",2017,170080,1363480,0.124739637
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",2017,311291,6018597,0.051721522
+"Phoenix-Mesa-Scottsdale, AZ ",2017,478738,4681091,0.102270603
+"Pittsburgh, PA ",2017,81770,2306289,0.035455227
+"Portland-South Portland, ME ",2017,,,0.04866044
+"Portland-Vancouver-Hillsboro, OR-WA ",2017,150715,2436166,0.061865653
+"Providence-Warwick, RI-MA ",2017,,,0.080897791
+"Raleigh, NC ",2017,132346,1324388,0.09992993
+"Richmond, VA ",2017,109293,1276602,0.08561243
+"Riverside-San Bernardino-Ontario, CA ",2017,351398,4504272,0.078014383
+"Sacramento--Roseville--Arden-Arcade, CA ",2017,114572,2306570,0.049672024
+"St. Louis, MO-IL ",2017,175735,2771358,0.063411151
+"Salt Lake City, UT ",2017,116386,1195074,0.097388112
+"San Antonio-New Braunfels, TX ",2017,353687,2436298,0.145173948
+"San Diego-Carlsbad, CA ",2017,249592,3239196,0.077053689
+"San Francisco-Oakland-Hayward, CA ",2017,209695,4699519,0.044620524
+"San Jose-Sunnyvale-Santa Clara, CA ",2017,82876,1988927,0.041668699
+"Seattle-Tacoma-Bellevue, WA ",2017,214901,3822739,0.056216498
+"Tampa-St. Petersburg-Clearwater, FL ",2017,371594,3060220,0.121427218
+"Virginia Beach-Norfolk-Newport News, VA-NC ",2017,144757,1632867,0.088652046
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",2017,465560,6141977,0.075799698
+"Anniston-Oxford-Jacksonville, AL ",2018,,,0.104026896
+"Atlanta-Sandy Springs-Roswell, GA ",2018,780907,5904596,0.132254095
+"Augusta-Richmond County, GA-SC ",2018,,,0.129225588
+"Austin-Round Rock, TX ",2018,271445,2150961,0.126197081
+"Baltimore-Columbia-Towson, MD ",2018,132188,2753141,0.048013523
+"Birmingham-Hoover, AL ",2018,111546,1137304,0.098079317
+"Boston-Cambridge-Newton, MA-NH ",2018,139528,4828239,0.028898321
+"Buffalo-Cheektowaga-Niagara Falls, NY ",2018,,,0.066565067
+"Charlotte-Concord-Gastonia, NC-SC ",2018,265963,2551649,0.104231812
+"Charlottesville, VA ",2018,,,0.090052976
+"Chicago-Naperville-Elgin, IL-IN-WI ",2018,713711,9406512,0.075874139
+"Cincinnati, OH-KY-IN ",2018,110985,2162574,0.051320787
+"Cleveland, TN ",2018,,,0.05316938
+"Cleveland-Elyria, OH ",2018,111810,2032245,0.055017973
+"Columbus, GA-AL ",2018,,,0.060278552
+"Columbus, IN ",2018,,,0.065539131
+"Columbus, OH ",2018,147268,2080065,0.070799711
+"Dallas-Fort Worth-Arlington, TX ",2018,1280661,7490827,0.1709639
+"Denver-Aurora-Lakewood, CO ",2018,207277,2907940,0.071279669
+"Detroit-Warren-Dearborn, MI ",2018,230233,4297161,0.053577932
+"Fresno, CA ",2018,73395,982821,0.074677891
+"Houston-The Woodlands-Sugar Land, TX ",2018,1290120,6939766,0.185902522
+"Indianapolis-Carmel-Anderson, IN ",2018,169627,2021966,0.083892113
+"Jacksonville, FL ",2018,175220,1507734,0.116214133
+"Jacksonville, NC ",2018,,,0.10391383
+"Kansas City, MO-KS ",2018,194062,2118268,0.091613526
+"Las Vegas-Henderson-Paradise, NV ",2018,257571,2207851,0.116661405
+"Los Angeles-Long Beach-Anaheim, CA ",2018,1128574,13203405,0.085475981
+"Louisville/Jefferson County, KY-IN ",2018,69957,1280108,0.054649295
+"Memphis, TN-MS-AR ",2018,159241,1332548,0.119501136
+"Miami-Fort Lauderdale-West Palm Beach, FL ",2018,934823,6150372,0.151994546
+"Milwaukee-Waukesha-West Allis, WI ",2018,85116,1562591,0.054471068
+"Minneapolis-St. Paul-Bloomington, MN-WI ",2018,153192,3601564,0.042534854
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",2018,185349,1913797,0.09684883
+"New York-Newark-Jersey City, NY-NJ-PA ",2018,1321706,19801347,0.066748287
+"Oklahoma City, OK ",2018,180462,1376236,0.131127219
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",2018,321837,6016894,0.053488893
+"Phoenix-Mesa-Scottsdale, AZ ",2018,511985,4800763,0.106646589
+"Pittsburgh, PA ",2018,80200,2299766,0.034873113
+"Portland-South Portland, ME ",2018,,,0.048995187
+"Portland-Vancouver-Hillsboro, OR-WA ",2018,155509,2463811,0.06311726
+"Providence-Warwick, RI-MA ",2018,,,0.076812048
+"Raleigh, NC ",2018,122481,1353279,0.090506836
+"Richmond, VA ",2018,110504,1281174,0.086252141
+"Riverside-San Bernardino-Ontario, CA ",2018,382296,4557852,0.083876352
+"Sacramento--Roseville--Arden-Arcade, CA ",2018,112897,2327208,0.048511779
+"St. Louis, MO-IL ",2018,182626,2769813,0.065934415
+"Salt Lake City, UT ",2018,136159,1215530,0.112016158
+"San Antonio-New Braunfels, TX ",2018,383887,2482269,0.154651651
+"San Diego-Carlsbad, CA ",2018,272028,3239327,0.083976703
+"San Francisco-Oakland-Hayward, CA ",2018,183206,4702993,0.038955193
+"San Jose-Sunnyvale-Santa Clara, CA ",2018,83597,1988755,0.042034841
+"Seattle-Tacoma-Bellevue, WA ",2018,219057,3894828,0.056243048
+"Tampa-St. Petersburg-Clearwater, FL ",2018,378647,3112216,0.121664756
+"Virginia Beach-Norfolk-Newport News, VA-NC ",2018,141461,1632902,0.086631653
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",2018,464179,6176339,0.075154392
+"Atlanta-Sandy Springs-Alpharetta, GA ",2019,767599,5969625,0.128584124
+"Augusta-Richmond County, GA-SC ",2019,,,0.132463113
+"Austin-Round Rock-Georgetown, TX ",2019,301305,2209919,0.136342101
+"Baltimore-Columbia-Towson, MD ",2019,131948,2749627,0.0479876
+"Birmingham-Hoover, AL ",2019,95173,1079159,0.088191823
+"Boston-Cambridge-Newton, MA-NH ",2019,152505,4827034,0.031593935
+"Buffalo-Cheektowaga, NY ",2019,,,0.069814836
+"Charlotte-Concord-Gastonia, NC-SC ",2019,282623,2616014,0.108035737
+"Charlottesville, VA ",2019,,,0.094875293
+"Chicago-Naperville-Elgin, IL-IN-WI ",2019,765254,9364932,0.081714849
+"Cincinnati, OH-KY-IN ",2019,125786,2193546,0.05734368
+"Cleveland, TN ",2019,,,0.056994768
+"Cleveland-Elyria, OH ",2019,114646,2023908,0.056645855
+"Columbus, GA-AL ",2019,,,0.061393841
+"Columbus, IN ",2019,,,0.066141826
+"Columbus, OH ",2019,148572,2095816,0.070889811
+"Dallas-Fort Worth-Arlington, TX ",2019,1306556,7521096,0.17371883
+"Denver-Aurora-Lakewood, CO ",2019,226860,2939329,0.07718088
+"Detroit-Warren-Dearborn, MI ",2019,238885,4289873,0.055685798
+"Fresno, CA ",2019,82530,987054,0.083612447
+"Houston-The Woodlands-Sugar Land, TX ",2019,1378137,7010291,0.196587702
+"Indianapolis-Carmel-Anderson, IN ",2019,170501,2049926,0.083174222
+"Jacksonville, FL ",2019,170140,1525454,0.111534009
+"Jacksonville, NC ",2019,,,0.10333042
+"Kansas City, MO-KS ",2019,202545,2129210,0.095126831
+"Las Vegas-Henderson-Paradise, NV ",2019,272755,2242008,0.121656569
+"Los Angeles-Long Beach-Anaheim, CA ",2019,1223677,13122045,0.093253529
+"Louisville/Jefferson County, KY-IN ",2019,74359,1249610,0.059505766
+"Memphis, TN-MS-AR ",2019,149125,1327417,0.112342241
+"Miami-Fort Lauderdale-Pompano Beach, FL ",2019,943192,6120582,0.154101685
+"Milwaukee-Waukesha, WI ",2019,89894,1562736,0.057523472
+"Minneapolis-St. Paul-Bloomington, MN-WI ",2019,163339,3612086,0.04522013
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",2019,177783,1915245,0.0928252
+"New York-Newark-Jersey City, NY-NJ-PA ",2019,1307543,19055829,0.068616432
+"Oklahoma City, OK ",2019,169528,1386348,0.122283871
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",2019,334647,6018780,0.055600471
+"Phoenix-Mesa-Chandler, AZ ",2019,552758,4888681,0.113068944
+"Pittsburgh, PA ",2019,90803,2292222,0.039613528
+"Portland-South Portland, ME ",2019,,,0.053297454
+"Portland-Vancouver-Hillsboro, OR-WA ",2019,165811,2475479,0.06698138
+"Providence-Warwick, RI-MA ",2019,,,0.080011121
+"Raleigh-Cary, NC ",2019,128423,1380286,0.093040863
+"Richmond, VA ",2019,99526,1268086,0.078485213
+"Riverside-San Bernardino-Ontario, CA ",2019,406871,4581295,0.088811351
+"Sacramento-Roseville-Folsom, CA ",2019,124028,2343496,0.052924349
+"St. Louis, MO-IL ",2019,180591,2764610,0.065322414
+"Salt Lake City, UT ",2019,126784,1224245,0.10356097
+"San Antonio-New Braunfels, TX ",2019,404559,2509828,0.16118993
+"San Diego-Chula Vista-Carlsbad, CA ",2019,259380,3233043,0.080227823
+"San Francisco-Oakland-Berkeley, CA ",2019,204348,4706535,0.043417928
+"San Jose-Sunnyvale-Santa Clara, CA ",2019,94594,1979861,0.047778102
+"Seattle-Tacoma-Bellevue, WA ",2019,231852,3932600,0.058956416
+"Tampa-St. Petersburg-Clearwater, FL ",2019,394337,3162076,0.124708261
+"Virginia Beach-Norfolk-Newport News, VA-NC ",2019,121377,1660843,0.073081562
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",2019,466837,6202734,0.075263102
+"Atlanta-Sandy Springs-Alpharetta, GA ",2021,717722,6093696,0.117781064
+"Augusta-Richmond County, GA-SC ",2021,,,0.122962353
+"Austin-Round Rock-Georgetown, TX ",2021,299199,2334872,0.128143641
+"Baltimore-Columbia-Towson, MD ",2021,136020,2788815,0.048773404
+"Birmingham-Hoover, AL ",2021,90560,1101993,0.08217838
+"Boston-Cambridge-Newton, MA-NH ",2021,127204,4854224,0.026204806
+"Buffalo-Cheektowaga, NY ",2021,,,0.06492014
+"Charlotte-Concord-Gastonia, NC-SC ",2021,277838,2680916,0.103635474
+"Charlottesville, VA ",2021,,,0.089578065
+"Chicago-Naperville-Elgin, IL-IN-WI ",2021,711312,9418774,0.075520657
+"Cincinnati, OH-KY-IN ",2021,125558,2232050,0.056252324
+"Cleveland, TN ",2021,,,0.053585017
+"Cleveland-Elyria, OH ",2021,104492,2052174,0.05091771
+"Columbus, GA-AL ",2021,,,0.059182218
+"Columbus, IN ",2021,,,0.067446725
+"Columbus, OH ",2021,160972,2126131,0.075711233
+"Dallas-Fort Worth-Arlington, TX ",2021,1294439,7711090,0.167867189
+"Denver-Aurora-Lakewood, CO ",2021,245687,2948714,0.083320051
+"Detroit-Warren-Dearborn, MI ",2021,208773,4338642,0.048119435
+"Fresno, CA ",2021,,,0.120605312
+"Houston-The Woodlands-Sugar Land, TX ",2021,1380278,7148322,0.19309119
+"Indianapolis-Carmel-Anderson, IN ",2021,150685,2101092,0.071717469
+"Jacksonville, FL ",2021,162663,1603794,0.101423874
+"Jacksonville, NC ",2021,,,0.096855375
+"Kansas City, MO-KS ",2021,200672,2174437,0.092286877
+"Las Vegas-Henderson-Paradise, NV ",2021,287105,2266590,0.126668255
+"Los Angeles-Long Beach-Anaheim, CA ",2021,1091232,12906567,0.084548587
+"Louisville/Jefferson County, KY-IN ",2021,71148,1268192,0.056101915
+"Memphis, TN-MS-AR ",2021,148162,1319983,0.112245385
+"Miami-Fort Lauderdale-Pompano Beach, FL ",2021,804399,6046873,0.133027269
+"Milwaukee-Waukesha, WI ",2021,86523,1553992,0.055677893
+"Minneapolis-St. Paul-Bloomington, MN-WI ",2021,154386,3663991,0.042136021
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",2021,177497,1995280,0.088958442
+"New York-Newark-Jersey City, NY-NJ-PA ",2021,1283183,19608877,0.065438883
+"Oklahoma City, OK ",2021,169762,1417896,0.119728104
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",2021,315391,6149929,0.051283681
+"Phoenix-Mesa-Chandler, AZ ",2021,520604,4891955,0.106420439
+"Pittsburgh, PA ",2021,85405,2328390,0.036679852
+"Portland-South Portland, ME ",2021,,,0.045974612
+"Portland-Vancouver-Hillsboro, OR-WA ",2021,137903,2495107,0.055269373
+"Providence-Warwick, RI-MA ",2021,,,0.070619466
+"Raleigh-Cary, NC ",2021,123750,1439463,0.085969559
+"Richmond, VA ",2021,80459,1295917,0.062086538
+"Riverside-San Bernardino-Ontario, CA ",2021,391628,4589467,0.085331913
+"Sacramento-Roseville-Folsom, CA ",2021,105386,2388666,0.044119186
+"St. Louis, MO-IL ",2021,171215,2772644,0.061751527
+"Salt Lake City, UT ",2021,121529,1254668,0.09686148
+"San Antonio-New Braunfels, TX ",2021,400516,2551652,0.15696341
+"San Diego-Chula Vista-Carlsbad, CA ",2021,212266,3170679,0.066946544
+"San Francisco-Oakland-Berkeley, CA ",2021,180669,4600143,0.039274649
+"San Jose-Sunnyvale-Santa Clara, CA ",2021,72782,1942751,0.03746337
+"Seattle-Tacoma-Bellevue, WA ",2021,221590,3959010,0.055971063
+"Tampa-St. Petersburg-Clearwater, FL ",2021,361544,3185878,0.113483316
+"Virginia Beach-Norfolk-Newport News, VA-NC ",2021,105484,1697892,0.062126449
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",2021,450517,6275300,0.071792106
+"Atlanta-Sandy Springs-Alpharetta, GA ",2022,683422,6178028,0.110621383
+"Augusta-Richmond County, GA-SC ",2022,,,0.109080591
+"Austin-Round Rock-Georgetown, TX ",2022,258332,2402199,0.1075398
+"Baltimore-Columbia-Towson, MD ",2022,127802,2794383,0.04573532
+"Birmingham-Hoover, AL ",2022,89965,1101726,0.081658234
+"Boston-Cambridge-Newton, MA-NH ",2022,117719,4858636,0.024228816
+"Buffalo-Cheektowaga, NY ",2022,,,0.055124909
+"Charlotte-Concord-Gastonia, NC-SC ",2022,235232,2734588,0.086021002
+"Charlottesville, VA ",2022,,,0.079570575
+"Chicago-Naperville-Elgin, IL-IN-WI ",2022,684046,9355096,0.073120148
+"Cincinnati, OH-KY-IN ",2022,105348,2243539,0.046956171
+"Cleveland, TN ",2022,,,0.051648596
+"Cleveland-Elyria, OH ",2022,114819,2037929,0.056341021
+"Columbus, GA-AL ",2022,,,0.059273933
+"Columbus, IN ",2022,,,0.062206845
+"Columbus, OH ",2022,139010,2134027,0.065139757
+"Dallas-Fort Worth-Arlington, TX ",2022,1247247,7889550,0.158088484
+"Denver-Aurora-Lakewood, CO ",2022,205507,2961013,0.069404288
+"Detroit-Warren-Dearborn, MI ",2022,185631,4319003,0.042980058
+"Fresno, CA ",2022,,,0.111409844
+"Houston-The Woodlands-Sugar Land, TX ",2022,1309915,7283795,0.17983963
+"Indianapolis-Carmel-Anderson, IN ",2022,137861,2113062,0.065242288
+"Jacksonville, FL ",2022,138840,1640161,0.084650226
+"Jacksonville, NC ",2022,,,0.08325537
+"Kansas City, MO-KS ",2022,178896,2185376,0.081860513
+"Las Vegas-Henderson-Paradise, NV ",2022,269993,2297781,0.117501624
+"Los Angeles-Long Beach-Anaheim, CA ",2022,987926,12794747,0.077213406
+"Louisville/Jefferson County, KY-IN ",2022,,,0.08605839
+"Memphis, TN-MS-AR ",2022,124631,1313241,0.094903373
+"Miami-Fort Lauderdale-Pompano Beach, FL ",2022,789256,6088493,0.129630764
+"Milwaukee-Waukesha, WI ",2022,78523,1550527,0.050642781
+"Minneapolis-St. Paul-Bloomington, MN-WI ",2022,161579,3664197,0.044096701
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",2022,181998,2029951,0.089656351
+"New York-Newark-Jersey City, NY-NJ-PA ",2022,1162078,19479953,0.059655072
+"Oklahoma City, OK ",2022,158158,1436845,0.110073112
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",2022,314618,6168808,0.051001425
+"Phoenix-Mesa-Chandler, AZ ",2022,525855,4959630,0.106027063
+"Pittsburgh, PA ",2022,85189,2325986,0.036624898
+"Portland-South Portland, ME ",2022,,,0.045680482
+"Portland-Vancouver-Hillsboro, OR-WA ",2022,136454,2492945,0.054736065
+"Providence-Warwick, RI-MA ",2022,,,0.067909114
+"Raleigh-Cary, NC ",2022,119540,1474307,0.081082163
+"Richmond, VA ",2022,,,0.079174009
+"Riverside-San Bernardino-Ontario, CA ",2022,355958,4606925,0.077265855
+"Sacramento-Roseville-Folsom, CA ",2022,98627,2397437,0.041138516
+"St. Louis, MO-IL ",2022,152745,2766129,0.055219767
+"Salt Lake City, UT ",2022,119864,1259298,0.095183189
+"San Antonio-New Braunfels, TX ",2022,391039,2605302,0.15009354
+"San Diego-Chula Vista-Carlsbad, CA ",2022,203442,3161147,0.06435702
+"San Francisco-Oakland-Berkeley, CA ",2022,175372,4550597,0.03853824
+"San Jose-Sunnyvale-Santa Clara, CA ",2022,,,0.045839053
+"Seattle-Tacoma-Bellevue, WA ",2022,211515,3980345,0.053139866
+"Tampa-St. Petersburg-Clearwater, FL ",2022,348049,3255447,0.106912814
+"Virginia Beach-Norfolk-Newport News, VA-NC ",2022,107528,1700944,0.063216661
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",2022,451871,6289805,0.071841814
